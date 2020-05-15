@@ -7,3 +7,4 @@
 |No.  | Nombre  | Descripción |
 |---|---|---|
 | 0 | programa0.py | Hola mundo orientado a objetos |
+| 1 | programa1.py | Creación de métodos en las clases |
