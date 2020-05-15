@@ -6,5 +6,6 @@
 
 |No.  | Nombre  | Descripción |
 |---|---|---|
-| 0 | programa0.py | Hola mundo orientado a objetos |
-| 1 | programa1.py | Creación de métodos en las clases |
+| 0 | programa_00.py | Hola mundo orientado a objetos |
+| 1 | programa_01.py | Creación de métodos en las clases |
+| 2 | programa_02.py | Creación de multiples objetos |
