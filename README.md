@@ -12,3 +12,4 @@
 | 3 | programa_03.py | Variables miembro de la clase o globales |
 | 4 | programa_04.py | Ejemplo de herencia |
 | 5 | programa_05.py | Ejemplo de polimorfismo |
+| 6 | programa_06.py | Ejemplo de encapsulacion |
