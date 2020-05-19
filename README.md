@@ -10,3 +10,4 @@
 | 1 | programa_01.py | Creación de métodos en las clases |
 | 2 | programa_02.py | Creación de multiples objetos |
 | 3 | programa_03.py | Variables miembro de la clase o globales |
+| 4 | programa_04.py | Ejemplo de herencia |
