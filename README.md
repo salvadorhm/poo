@@ -13,3 +13,4 @@
 | 4 | programa_04.py | Ejemplo de herencia |
 | 5 | programa_05.py | Ejemplo de polimorfismo |
 | 6 | programa_06.py | Ejemplo de encapsulacion |
+| 7 | programa_07.py | Variables globales vs Variables locales |
