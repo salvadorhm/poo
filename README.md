@@ -14,3 +14,4 @@
 | 5 | programa_05.py | Ejemplo de polimorfismo |
 | 6 | programa_06.py | Ejemplo de encapsulacion |
 | 7 | programa_07.py | Variables globales vs Variables locales |
+| 8 | programa_08.py | Métodos con parámetros |
