@@ -20,4 +20,5 @@
 | 11 | programa_11.py | Tipos de datos |
 | 12 | programa_12.py | Saber el tipo de dato de una variable |
 | 13 | programa_13.py | Casting |
+| 14 | programa_14.py | Strings parte 1 |
 
