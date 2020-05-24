@@ -17,3 +17,7 @@
 | 8 | programa_08.py | Métodos con parámetros |
 | 9 | programa_09.py | Convenciones de nombres |
 | 10 | programa_10.py | Comentarios |
+| 11 | programa_11.py | Tipos de datos |
+
+
+
