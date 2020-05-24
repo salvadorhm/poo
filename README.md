@@ -16,3 +16,4 @@
 | 7 | programa_07.py | Variables globales vs Variables locales |
 | 8 | programa_08.py | Métodos con parámetros |
 | 9 | programa_09.py | Convenciones de nombres |
+| 10 | programa_10.py | Comentarios |
