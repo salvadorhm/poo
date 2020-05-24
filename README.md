@@ -19,5 +19,5 @@
 | 10 | programa_10.py | Comentarios |
 | 11 | programa_11.py | Tipos de datos |
 | 12 | programa_12.py | Saber el tipo de dato de una variable |
-
+| 13 | programa_13.py | Casting |
 
