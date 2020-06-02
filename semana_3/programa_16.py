@@ -1,7 +1,7 @@
 class Cadenas:
 
-    cadena = " Hola a todos, bienvenidos al Curso "
-    cadena_1 = "Hola"
+    cadena = " Hola a todos bienvenidos al Curso "
+    cadena_1 = "0.9"
 
     def __init__(self):
         pass

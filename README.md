@@ -23,3 +23,5 @@
 | 14 | programa_14.py | Strings parte 1 |
 | 15 | programa_15.py | Herencia parte 2 |
 | 16 | programa_16.py | Strings parte 2 |
+| 17 | programa_17.py | Strings parte 3 |
+| 18 | programa_18.py | Strings parte 4 |
