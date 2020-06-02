@@ -10,7 +10,7 @@
 | 01 | programa_01.py | Creación de métodos en las clases |
 | 02 | programa_02.py | Creación de multiples objetos |
 | 03 | programa_03.py | Variables miembro de la clase o globales |
-| 04 | programa_04.py | Ejemplo de herencia |
+| 04 | programa_04.py | Herencia parte 1|
 | 05 | programa_05.py | Ejemplo de polimorfismo |
 | 06 | programa_06.py | Ejemplo de encapsulacion |
 | 07 | programa_07.py | Variables globales vs Variables locales |
@@ -25,3 +25,4 @@
 | 16 | programa_16.py | Strings parte 2 |
 | 17 | programa_17.py | Strings parte 3 |
 | 18 | programa_18.py | Strings parte 4 |
+| 19 | programa_19.py | Bucle for parte 1 |
