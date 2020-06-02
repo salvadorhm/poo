@@ -26,3 +26,5 @@
 | 17 | programa_17.py | Strings parte 3 |
 | 18 | programa_18.py | Strings parte 4 |
 | 19 | programa_19.py | Bucle for parte 1 |
+| 20 | programa_20.py | Operadores de asignación |
+| 21 | programa_21.py | Bucle while |
