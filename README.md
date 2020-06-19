@@ -28,3 +28,4 @@
 | 19 | programa_19.py | Bucle for parte 1 |
 | 20 | programa_20.py | Operadores de asignación |
 | 21 | programa_21.py | Bucle while |
+| 22 | programa_22.py | Caracteres a ASCII |
