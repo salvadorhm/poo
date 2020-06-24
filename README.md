@@ -29,3 +29,5 @@
 | 20 | programa_20.py | Operadores de asignación |
 | 21 | programa_21.py | Bucle while |
 | 22 | programa_22.py | Caracteres a ASCII |
+| 23 | programa_23.py | Formatear cadenas con f |
+| 24 | programa_24.py | Concatenar valores con format |
