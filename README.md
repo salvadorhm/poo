@@ -31,3 +31,4 @@
 | 22 | programa_22.py | Caracteres a ASCII |
 | 23 | programa_23.py | Formatear cadenas con f |
 | 24 | programa_24.py | Concatenar valores con format |
+| 25 | programa_25.py | Leer y escribir archivos de texto |
