@@ -32,3 +32,4 @@
 | 23 | programa_23.py | Formatear cadenas con f |
 | 24 | programa_24.py | Concatenar valores con format |
 | 25 | programa_25.py | Leer y escribir archivos de texto |
+| 26 | programa_26.py | Arreglo |
