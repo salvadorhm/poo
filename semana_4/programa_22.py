@@ -4,10 +4,10 @@ class Ascii():
         pass
 
     def ascii(self,caracter):
-        return ord(caracter)
+        return ord(caracter) #  Valor int del caracter
 
     def caracter(self, ascii):
-        return chr(ascii)
+        return chr(ascii) #  Convierte de Int a Caracter
 
 
 objeto = Ascii()
