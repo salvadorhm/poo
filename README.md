@@ -33,3 +33,4 @@
 | 24 | programa_24.py | Concatenar valores con format |
 | 25 | programa_25.py | Leer y escribir archivos de texto |
 | 26 | programa_26.py | Arreglo |
+| 27 | programa_27.py | Arreglo dentro de un arreglo |
