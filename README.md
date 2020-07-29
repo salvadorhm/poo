@@ -34,3 +34,5 @@
 | 25 | programa_25.py | Leer y escribir archivos de texto |
 | 26 | programa_26.py | Arreglo |
 | 27 | programa_27.py | Arreglo dentro de un arreglo |
+| 28 | programa_28.py | Archivo de texto a un arreglo |
+| 29 | programa_29.py | Diccionarios |
